@@ -1,0 +1,42 @@
+{
+    "587082914899034113": {
+        "uesr_id": "587082914899034113",
+        "name": "백승우",
+        "birth": "080826",
+        "area": "서울시",
+        "school_name": "청운중",
+        "school_type": "중학교",
+        "passward": "0826",
+        "possible": true,
+        "failure": 0,
+        "schedule": null,
+        "cafeteria": null,
+        "timetable": null,
+        "area_covid19_decide": null,
+        "all_covid19_decide": null,
+        "area_code": "B10",
+        "school_code": "7061117",
+        "school_grade": "1",
+        "school_class": "3"
+    },
+    "619478483583762443": {
+        "uesr_id": "619478483583762443",
+        "name": "황태준",
+        "birth": "080115",
+        "area": "서울시",
+        "school_name": "청운중",
+        "school_type": "중학교",
+        "passward": "0115",
+        "possible": true,
+        "failure": 0,
+        "schedule": null,
+        "cafeteria": null,
+        "timetable": null,
+        "area_covid19_decide": null,
+        "all_covid19_decide": null,
+        "area_code": "B10",
+        "school_code": "7061117",
+        "school_grade": "1",
+        "school_class": "3"
+    }
+}
