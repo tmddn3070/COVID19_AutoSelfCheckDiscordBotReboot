@@ -5,9 +5,7 @@
 	<p align="center"><strong><a href="https://bit.ly/3rmmv68">서버에 초대하기</a></strong></p>
     <br><br><br>
 </p>
-<p>
-![](https://rl6cz18qh.toastcdn.net/eduro/1.7.85/images/common/secondary_pw_bg.jpg)
-</p>
+<p align="center">![](https://rl6cz18qh.toastcdn.net/eduro/1.7.85/images/common/secondary_pw_bg.jpg)</p>
 ## 사용방법
 디스코드 서버에 봇을 초대한 뒤,
 `!명령어`
