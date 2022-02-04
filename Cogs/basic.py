@@ -43,6 +43,7 @@ class basic(commands.Cog):
     async def test(self,ctx):
         await ctx.send("Hello World!")
 
+
     
 def setup(bot):
     bot.add_cog(basic(bot))

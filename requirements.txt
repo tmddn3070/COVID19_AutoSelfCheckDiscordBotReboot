@@ -6,4 +6,4 @@ wheel==0.37.0
 jwt==1.3.0
 aiohttp
 py-cord
-hcskr
+./hcskr-1.3.6-py3-none-any.whl

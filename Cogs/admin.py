@@ -164,6 +164,8 @@ class admin(commands.Cog):
             return
         await ctx.send(file=discord.File(JSON_FILE_NAME))
         await ctx.send(await get_id())
+    
+    
 
 def setup(bot):
     bot.add_cog(admin(bot))
