@@ -1,4 +1,6 @@
 # 자동자가진단 디스코드 봇
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftmddn3070%2FCOVID19_AutoSelfCheckDiscordBotReboot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftmddn3070%2FCOVID19_AutoSelfCheckDiscordBotReboot?ref=badge_shield)
+
 
 ## 설명
 아침에 자동으로 자가진단을 해주는 봇 입니다. (NEW자동자가진단)
@@ -81,3 +83,7 @@ NEIS_API_KEY = 나이스 오픈데이터 API KEY
 [초대링크](https://discord.com/api/oauth2/authorize?client_id=846650618701283359&permissions=2184703040&scope=bot) ,[공식 서포트 서버](https://discord.gg/bhJEbEgHED)
 ### 모듈
 사용 모듈 : [hcskr](https://pypi.org/project/hcskr/), [discord.py](https://pypi.org/project/discord.py/), [asyncio](https://pypi.org/project/asyncio/), [requests](https://pypi.org/project/requests/), [xmltodict](https://pypi.org/project/xmltodict3/) 등
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftmddn3070%2FCOVID19_AutoSelfCheckDiscordBotReboot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftmddn3070%2FCOVID19_AutoSelfCheckDiscordBotReboot?ref=badge_large)
